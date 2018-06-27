@@ -3,6 +3,6 @@
 * [Help Center](README.md)
 * [English](en/README.md)
   * [Basic](en/basic.md)
-* [한국어](undefined/README.md)
-  * [앤카즈란?](undefined/undefined.md)
+* [한국어](ko/README.md)
+  * [앤카즈란?](ko/undefined.md)
 
