@@ -7,7 +7,7 @@ For now to create an organization, please contact our support team and we will d
 
 ## What roles are there in an organization?
 
-There can be 3 roles in an organizations:  Administrator, Moderator and Member.  
+There can be 3 roles in an organizations: Administrator, Moderator and Member.  
 Administrator has full access to all features, can add members to an organization, approve requests and create content.  
 Moderator can create content for an organization.  
 Member of an organization can view all the content and use Booking System.
@@ -15,8 +15,8 @@ Member of an organization can view all the content and use Booking System.
 ## How to join an organization?
 
 To join an organization use a link which was shared with you by Administrator of an organization.  
-Admin can share a link by SMS or any other way.   
-If you use a link from any other source, you can join an organization only after Administrator's approval.   
+Admin can share a link by SMS or any other way.  
+If you use a link from any other source, you can join an organization only after Administrator's approval.
 
 ## How to invite members?
 
@@ -41,7 +41,7 @@ We developed our booking system to make it as simple as possible, so using andCa
 2. Select "Book" and set up date and time.
 3. Type the purpose of using the room.
 
-```
+```text
 Done!
 ```
 
@@ -67,3 +67,4 @@ To do that:
 * Type the title of an announcement.
 * Target guild who you address announcement to.
 * Type your announcement at the Contents field.
+
