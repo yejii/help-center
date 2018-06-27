@@ -41,7 +41,7 @@ The process of signing up andCards app is very easy for all platforms:
 4. Enter the code and enjoy!
 
 Your number will be linked to your account so you can access your account from any device using your number.  
-If you want to add several numbers to your account [follow the link](/how-to-change-or-add-login-phone-number.md).
+If you want to add several numbers to your account [follow the link](https://github.com/opensource-cards/help-center/tree/e4b87627fabd74133d440795368ca37ac03874f7/how-to-change-or-add-login-phone-number.md).
 
 ## How to change the sorting or display order of cards?
 
@@ -71,5 +71,6 @@ To add another number you have to
 
 ## How to view and terminate active login sessions?
 
-You can control usage of your andCards app by monitoring Active Sessions.   
+You can control usage of your andCards app by monitoring Active Sessions.  
 You'll find them in Settings - Account - Active Sessions.
+
