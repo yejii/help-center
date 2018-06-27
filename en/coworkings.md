@@ -46,3 +46,24 @@ Done!
 ```
 
 Note: Your card will be automatically attached to every booking you make, and anyone in your organization can see the booking details!
+
+## What is a guild?
+
+A group of people specified by a particular characteristic.
+
+## How create a guild?
+
+1. Create a guild: fill in the name and label
+2. Select the tick - the guild is created!
+3. Select the guild button.
+4. Select the add button and choose member from your contact list. Done!
+
+## How to create an announcement?
+
+Using andCards app you can notify members of an organization about any important news, ideas or updates.  
+To do that:
+
+* Select "Announce" button.
+* Type the title of an announcement.
+* Target guild who you address announcement to.
+* Type your announcement at the Contents field.
