@@ -1,4 +1,4 @@
-# Organizations
+# Coworkings
 
 ## 단체 구성 방법
 
