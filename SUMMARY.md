@@ -4,6 +4,6 @@
 * [English](en.md)
 * [Español](es.md)
 * [Русский](ru.md)
-* [Українська](ukrayinska.md)
-* [한국어](undefined.md)
+* [Українська](uk.md)
+* [한국어](ko.md)
 
