@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Help Center](README.md)
-* [Untitled](untitled.md)
+* [English](untitled.md)
+* [Español](es.md)
 
