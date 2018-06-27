@@ -13,7 +13,7 @@
 * [Українська](uk/README.md)
   * [Basic](uk/basic.md)
   * [Coworkings](uk/coworkings.md)
-* [한국어](undefined/README.md)
-  * [Basic](undefined/basic.md)
-  * [Coworkings](undefined/coworkings.md)
+* [한국어](ko/README.md)
+  * [Basic](ko/basic.md)
+  * [Coworkings](ko/coworkings.md)
 
