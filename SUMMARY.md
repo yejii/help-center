@@ -2,8 +2,8 @@
 
 * [Help Center](README.md)
 * [English](en/README.md)
-  * [Basic](en/basic.md)
-  * [Coworkings](en/coworkings.md)
+  * [andCards Suite](en/basic.md)
+  * [andCards.com](en/coworkings.md)
 * [Español](es/README.md)
   * [Basic](es/basic.md)
   * [Coworkings](es/coworkings.md)
