@@ -2,23 +2,21 @@
 
 ## 코워킹스페이스 찾기
 
-* Search for coworking space name, city or country
-* Explore home page to see coworkings nearby, recommendations, and hot destinations
-* Select coworking destination in catalogue. Pay special attention to culture 🏛 and beach 🏝 destination.
+* 도시 혹은 나라별 코워킹 스페이스 이름을 검색하세요. 
+* 홈페이지에서 근처에 있는 코워킹, 추천지와 인기 있는 코워킹을 확인해보세요.
+* 카탈로그에 있는 코워킹 장소를 선택하세요. 문화와 🏛 바다 🏝 에 특히 주목하세요.
 
-Each coworking space has a page with detailed description of amenities, photos, services and address.
+각 코워킹 스페이스는 시설 세부설명, 사진, 서비스 그리고 주소를 포함하고 있습니다.
 
-> andCards Suite enabled coworkings are marked with `PLUS` sign and offer instant booking, live seat count and access to community directory.
+> andCards Suite 와 협력중인 코워킹 스페이스는 `PLUS` 뱃지를 부여하고 바로예약, 잔여 좌석 수와 커뮤니티 주소록 접근권한을 제공합니다.
 
 ## 코워킹스페이스 추가
 
-Contact business@andcards.com to list your coworking space.
+business@andcards.com에 연락하여 귀하의 코워킹 스페이스를 추가해보세요.
 
 ## 코워킹스페이스 페이지 개선
 
-andCards.com is highly optimized for search engines. To improve your coworking space rank in search results, do the following:
-
-* provide more detailed and accurate description of your coworking space
-* add more images to give a feel of your interior and amenities
-* indicate correct address, email and website
-
+andCards.com 매우 최적화된 검색 엔진입니다. 검색 결과로 나타나는 귀하의 코워킹 스페이스 순위를 개선시키고 싶으시다면, 다음과 같이 해주시길 바랍니다:
+* 코워킹 스페이스에 대한 세부사항과 정확한 설명 제공
+* 인테리어와 시설을 확인할 수 있는 더 많은 사진 추가
+* 정확한 주소, 이메일,웹사이트 첨부
