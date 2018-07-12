@@ -105,3 +105,9 @@ Some coworking spaces allow to pay with cash at the counter after you make a boo
 `Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
 
 > Administrator can add membership plans. 
+
+## Workspace Settings
+
+`Settings` page contains all app and workspace related settings. Workspace settings section has title of your coworking space. You can view all coworking space information in section.
+
+> Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andCards.com.
