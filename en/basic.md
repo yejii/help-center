@@ -9,7 +9,7 @@ andCards Suite is the best coworking space membership software. Key features:
 * Member directory
 * Notices
 
-When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
+Read more about [andCards Suite features](https://andcards.com/features). When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
 
 ## Download andCards Suite
 
