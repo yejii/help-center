@@ -48,7 +48,13 @@ You may use several numbers for accessing your account.
 
 `Directory` page allows you to browse all coworking community members.
 
-> Administrators can press ··· on any card to view `Manage membership` page. This page allows to adjust member privileges, credit and cash balances.
+> Administrators or moderators can press ··· on any card to view `Manage membership` page. This page allows to adjust member privileges, credit and cash balances.
+
+### Guilds
+
+A guild is a group of members. Each guild has emoji identifier and name. 
+
+> Administrators and moderators can create guilds, add or remove members.
 
 ## Bookings
 
@@ -58,7 +64,7 @@ You may use several numbers for accessing your account.
 2. Identify a meeting room you need by availability indicator, seat count and price.
 
 > Administrator can change all meeting room settings, such as seat count, price, and minimum booking time.
-> Administrator doesn't need credits or money to make a booking.
+> Administrator or moderator doesn't need credits or money to make a booking.
 
 3. Select the meeting room and find a free slot on the timeline. 
 4. Press `Book` and fill in booking details. Keep in mind that the booking time should be equal or higher than the minimum booking time set by administrator.
@@ -73,7 +79,7 @@ Some coworking spaces may use credits for room booking. Credits are a kind of vi
 There are two ways to get credits:
 
 * Subscribe to a monthly membership plan for automated credit delivery.
-* Ask administrator (community manager) to manually add credits to your account.
+* Ask administrator or moderator (community manager) to manually add credits to your account.
 
 > Administrator can adjust credit balance from `Manage membership` page in `Directory`.
 
@@ -93,7 +99,7 @@ Some coworking spaces allow to pay with cash at the counter after you make a boo
 2. Press `Delete` in action sheet.
 3. Create a new booking.
 
-> Administrator can delete any booking.
+> Administrator or moderator can delete any booking.
 
 ### Sharing a Link to a Booking
 
@@ -104,7 +110,13 @@ Some coworking spaces allow to pay with cash at the counter after you make a boo
 
 `Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
 
-> Administrator can add membership plans. 
+> Administrator or moderator can add membership plans. 
+
+## Notices
+
+`Notices` page is where all the community news show up. Every time there's a new notice we'll send you a push notification.
+
+> Administrators or moderators can create, edit or delete notices. When creating notice, administrator or moderator can select a target guild or all members.
 
 ## Workspace Settings
 
