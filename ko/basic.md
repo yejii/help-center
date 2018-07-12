@@ -2,124 +2,124 @@
 
 ## andCards Suite 소개
 
-andCards Suite is the best coworking space membership software. Key features: 
+andCards Suite는 최고의 코워킹 스페이스 멤버십 소프트웨어입니다. 주요 : 
 
-* Meeting room booking
-* Membership plan subscriptions
-* Member directory
-* Notices
+* 회의실 예약
+* 멤버십 플랜 구독
+* 회원 주소록
+* 공지사항
 
-Read more about [andCards Suite features](https://andcards.com/features). When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
+[andCards Suite features](https://andcards.com/features)에서 더 자세한 사항들을 읽어보세요. andCards Suite에서 코워킹 스페이스를 찾고 가입해보세요.
 
 ## andCards Suite 다은로드
 
-andCards Suite is available for: 
+andCards는 다음과 같은 곳에서 제공하고 있습니다: 
 
 * [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
 * [Web app](https://andcards.com/suite).
 
-> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. 
-> If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
+> 귀하는 모든 장치에서 원하는 만큼 andCards를 로그인할 수 있습니다. 원하는대로 귀하의 많은 장치에서 andCards를 로그인하세요. — **동시**. 모든 곳에서 이 방법으로 로그인 후 이용해주시기 바랍니다. 
+> 만일 귀하가 로그인하고 있는 모든 장치를 보고 싶은 경우 `주소록` 페이지에서 `활성 세션` 을 확인해주세요.
 
 ## andCards Suite 로그인
 
-1. Open the app or andCards on web.
-2. Select the country of your phone number. Fill in your phone number **without** country code.
-3. Wait a second for SMS with 4-digit passcode.
-4. Enter the code and enjoy!
+1. andCards 앱 혹은 웹을 켭니다.
+2. 휴대전화의 해당 국가를 선택하세요. 국가 코드 **없이** 당신의 휴대전화 번호를 입력해주세요.
+3. SMS로 4자리의 패스코드 오는 동안 잠시 기다려주세요.
+4. 코드 입력 후 andCards를 사용해주시기 바랍니다!
 
-Your number will be linked to your account so you can access your account from any device using your number.  
-You may use several numbers for accessing your account.
+귀하의 번호는 계정으로 연결됩니다. 후에 귀하의 번호를 이용하여 어느 기계에서라도 접근이 가능합니다.   
+귀하의 계정 접근 시 여러 번호를 사용할 수 있습니다.
 
 ## 코워킹스페이스 회원가입
 
-1. Press `Join Workspace` button and enter workspace tag. 
+1. `워크스페이스 가입` 버튼을 누르고 워크스페이스 태그를 입력합니다. 
 
-> "Workspace tag" is unique for each coworking space. Ask manager or look for "Join us on andCards Suite" sign.
-> Administrator can contact our support to change the workspace tag.
+> "워크스페이스 태그" 는 각 코워킹 스페이스의 고유 태그입니다. 매니저에게 문의하거나 "andCards Suite에 가입하세요" 사인을 찾아보세요.
+> 관리자는 워크스페이스 태그를 바꾸기 위해 andCards에 문의할 수 있습니다. 
 
-2. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
-3. Press `Request to join` button at the bottom of the page. Once the administrator approves your request, you'll be notified. Just reopen andCards Suite to access coworking space portal.
+2. Press `검색` 을 누르고 검색 바를 통해 기관의 세부사항들을 볼 수 있습니다. 코워킹 스페이스의 권한을 확인하세요.
+3. 페이지 하단의 `가입 요청` 버튼을 누르세요. 관리자가 귀하의 요청을 승이할 시 알림을 받게 됩니다. 그 때 andCards Suite 앱을 재실행 후, 코워킹 스페이스 포탈을 접속해주세요.
 
-> Administrators receive a push notification to approve or reject each request.
+> 관리자는 각 요청의 승인 혹은 거절할 수 있는 알림푸시를 받습니다.
 
 ## 회원 찾기
 
-`Directory` page allows you to browse all coworking community members.
+`주소록` 페이지에서는 모든 코워킹 커뮤니티 회원들을 확인할 수 있습니다.
 
-> Administrators or moderators can press ··· on any card to view `Manage membership` page. This page allows to adjust member privileges, credit and cash balances.
+> 관리자 및 중간관리자는 `회원관리` 페이지에서 모든 카드의 ···을 누를 수 있습니다.. 이 페이지에서는 회원 특권, 크레딧, 잔액을 알 수 있습니다.
 
 ### 길드
 
-A guild is a group of members. Each guild has emoji identifier and name. 
+길드는 회원들로 구성된 그룹입니다. 각 길드에는 식별된 이모티콘과 이름이 있습니다.
 
-> Administrators and moderators can create guilds, add or remove members.
+> 관리자와 중간관리자는 길드 생성, 회원 추가 및 삭제를 할 수 있습니다.
 
 ## 예약 시스템
 
 ### 회의실 예약
 
-1. Navigate to `Bookings` page that displays a list of all meeting rooms. 
-2. Identify a meeting room you need by availability indicator, seat count and price.
+1. `예약 시스템` 페이지는 모든 회의실 목록을 보여줍니다. 
+2. 예약 가능 표시, 잔여 좌석과 가격을 통해 귀하가 필요한 회의실을 확인하세요. 
 
-> Administrator can change all meeting room settings, such as seat count, price, and minimum booking time.
-> Administrator or moderator doesn't need credits or money to make a booking.
+> 관리자는 좌석 수, 가격, 최소 예약시간 등 모든 회의실 설정을 바꿀 수 있습니다.
+> 관리자 혹은 중간관리자는 예약 시 크레딧과 현금 없이 예약이 가능합니다.
 
-3. Select the meeting room and find a free slot on the timeline. 
-4. Press `Book` and fill in booking details. Keep in mind that the booking time should be equal or higher than the minimum booking time set by administrator.
-5. Complete booking by pressing corresponding button.
+3. 회의실을 선택 후 타임라인에 빈 부분을 찾으세요. 
+4. Press `예약` 을 누르고 예약 세부사항을 기입해주세요. 예약 시간은 관리자에 의해 설정된 최소 예약 시간보다 같거나 높아야 함을 명심하세요.
+5. 일치 버튼을 누른 뒤 예약을 완료하세요.
 
 ### 결제스단 : 크레딧
 
-Some coworking spaces may use credits for room booking. Credits are a kind of virtual currency and look like emoji: ⭐️, 💎 or 🍑.
+몇몇의 코워킹 스페이스는 예약 시 크레딧을 사용할 수 있습니다. 크레딧은 가상화폐나 이모티콘으로 보여집니다: ⭐️, 💎 or 🍑.
 
 #### 크레딧 받기
 
-There are two ways to get credits:
+크레딧은 두 가지 방법으로 받을 수 있습니다:
 
-* Subscribe to a monthly membership plan for automated credit delivery.
-* Ask administrator or moderator (community manager) to manually add credits to your account.
+* 매달 자동으로 크레딧이 부여되는 멤버십 플랜을 구독하세요. 
+* 관리자 혹은 중간관리자(커뮤니티 매니저)에게 직접 귀하의 계정에 크레딧 등록을 요청하세요.
 
-> Administrator can adjust credit balance from `Manage membership` page in `Directory`.
+> 관리자는 `주소록` 페이지에 있는 `회원관리`를 통해 크레딧을 조절할 수 있습니다.
 
 #### 크레딧 이용
 
-When you book a meeting room, credits will be displayed as a payment option. Each meeting room displays hourly credit price. Make sure you have enough credits to complete booking. If you cancel booking before it starts, 100% of credits will be refunded.
+회의실을 예약할 때, 크레딧은 하나의 결제 수단입니다. 각 회의실은 시간 당 크레딧 가격으로 표시됩니다. 예약을 완료하기 위해 크레딧이 충분한지 확인하세요. 이용 전 예약을 취소할 시, 크레딧은 100% 환불됩니다.
 
 ### 결제스단 : 현금
 
-Some coworking spaces allow to pay with cash at the counter after you make a booking. Each meeting room displays hourly price. When you book with cash, we'll update your `Cash balance` to display how much you owe to pay at the counter. If you cancel booking before it starts, 100% of credits will be refunded.
+몇몇 코워킹 스페이스는 선예약 후 카운터에서 현금으로 결제합니다. 각 회의실은 시 간당 가격으로 보여집니다. 현금으로 예약할 시, 귀하의 `현금 잔고` 를 업데이트하여 카운터에서 지불할 수 있는지 보여드립니다. 이용 전 예약을 취소할 시, 크레딧은 100% 환불됩니다.
 
-> Administrator can clear cash balance from `Manage membership` page in `Directory`.
+> 관리자는 `주소록` 페이지에 있는 `회원관리` 에서 현금을 확인할 수 있습니다.
 
 ### 예약 삭제 및 편집
 
-1. Open your booking and tap on page title.
-2. Press `Delete` in action sheet.
-3. Create a new booking.
+1. 예약 사항을 열고 페이지의 타이틀을 눌러주세요.
+2. Press `삭제` in action sheet에 눌러주세요.
+3. 새 예약을 만들어주세요.
 
-> Administrator or moderator can delete any booking.
+> 관리자와 중간관리자는 어떤 예약이라도 삭제할 수 있습니다.
 
 ### 예약 공유
 
-1. Open your booking and find `Link to booking` section.
-2. Copy the link and share with another person. This link is dynamic: it'll open in app (if installed) or web.
+1. 귀하의 예약을 열어 `예약 링크` 를 찾아주세요.
+2. 링크를 복사하고 다른 사람과 예약을 공유하세요. 이 링크는 다양합니다: 앱 (설치된 경우) 혹은 웹에서 열 수 있습니다.
 
 ## 멤버십 플랜
 
-`Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
+`멤버십` 페이지는 코워킹 스페이스 멤버십 플랜 결제와 크레딧 및 현금 현황을 보여줍니다. 
 
-> Administrator or moderator can add membership plans. 
+> 관리자 및 중간관리자는 멤버십 플랜을 추가할 수 있습니다.
 
 ## 공지 사항
 
-`Notices` page is where all the community news show up. Every time there's a new notice we'll send you a push notification.
+`공지 사항` 페이지는 모든 커뮤니티의 뉴스를 보여주는 곳입니다. 알림푸시를 받을 때마다 이곳에서 새로운 공지사항을 확인할 수 있습니다.
 
-> Administrators or moderators can create, edit or delete notices. When creating notice, administrator or moderator can select a target guild or all members.
+> 관리자 혹은 중간관리자는 공지사항을 생성, 수정 및 삭제할 수 있습니다. 공지사항을 생성할 때, 관리자 및 중간관리자는 특정 길드나 모든 회원들을 선택할 수 있습니다.
 
 ## 공간 설정
 
-`Settings` page contains all app and workspace related settings. Workspace settings section has title of your coworking space. You can view all coworking space information in section.
+`설정` 페이지는 설정고 관련된 모든 앱과 작업 공간을 포함하고 있습니다. 작업 공간 설정은 귀하의 코워킹 스페이스 이름에 있습니다. 이곳에서 모든 코워킹 스페이스의 정보를 볼 수 있습니다.
 
-> Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andCards.com.
+> 관리자는 이름, 주소, 설명, 최소 요구되는 개인정보 그리고 기타사항 등 코워킹 스페이스 정보를 바꿀 수 있습니다. 코워킹 스페이스 정보는 andCards.com에서도 업데이트된다는 사실을 잊지마세요.
