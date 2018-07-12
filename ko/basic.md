@@ -1,77 +1,125 @@
 # andCards Suite
 
-## 앤카즈란?
+## andCards Suite 소개
 
-앤카즈는 커뮤니티 형성 앱으로 코워킹 스페이스, 공유 오피스나 다양한 모임들 안에서 강한 커뮤니티를 만들도록 돕습니다.
+andCards Suite is the best coworking space membership software. Key features: 
 
-3가지 주요 특징 :
+* Meeting room booking
+* Membership plan subscriptions
+* Member directory
+* Notices
 
-* 코워킹 관리 솔루션
-* 이벤트 관리
-* 명함 공유 서비스
+Read more about [andCards Suite features](https://andcards.com/features). When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
 
-## 앤카즈의 주 고객층은?
+## andCards Suite 다은로드
 
-앤카즈의 유용한 기능 :
+andCards Suite is available for: 
 
-* 코워킹 스페이스 관리
-* 입주자 및 입주기업과의 커뮤니케이션
-* 개인 명함 교환
-* 비즈니스 네트워크
-* 시장 및 설문 조사 \(곧 추가 예정\)
+* [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
+* [Web app](https://andcards.com/suite).
 
-앤카즈의 주 고객층은 커뮤니티 관리와 소통을 힘들어하는 코워킹 스페이스 매니저입니다.
+> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. 
+> If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
 
-그래서 앤카즈 팀은 애플리케이션을 고객 커뮤니케이션과 코워킹 스페이스 및 이벤트 관리에 중점을 두어 개발하고 있습니다!
+## andCards Suite 로그인
 
-## 사용 가능 기종은?
+1. Open the app or andCards on web.
+2. Select the country of your phone number. Fill in your phone number **without** country code.
+3. Wait a second for SMS with 4-digit passcode.
+4. Enter the code and enjoy!
 
-앤카즈는 [애플](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8), [안드로이드](https://play.google.com/store/apps/details?id=com.cardscorp.contacts) 그리고 [웹 앱](https://andcards.com/login)을 지원해 다양한 플랫폼에서 이용하실 수 있습니다.
+Your number will be linked to your account so you can access your account from any device using your number.  
+You may use several numbers for accessing your account.
 
-> 모든 기종에서 동시에 앤카즈에 로그인할 수 있고 어디에서나 전화번호로 애플리케이션을 사용할 수 있습니다.
+## 코워킹스페이스 회원가입
 
-## 회원가입 및 로그인 방법
+1. Press `Join Workspace` button and enter workspace tag. 
 
-간단한 앤카즈 회원가입 방법:
+> "Workspace tag" is unique for each coworking space. Ask manager or look for "Join us on andCards Suite" sign.
+> Administrator can contact our support to change the workspace tag.
 
-1. 모바일이나 웹에서 앤카즈에 접속하세요
-2. 휴대폰 전화번호를 입력하세요
-3. 4자리 비밀번호가 메세지로 오길 기다리세요 
-4. 비밀번호를 입력하고 시작하세요!
+2. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
+3. Press `Request to join` button at the bottom of the page. Once the administrator approves your request, you'll be notified. Just reopen andCards Suite to access coworking space portal.
 
-전화번호는 앤카즈앱과 연동되어 다른 기종에서도 전화번호를 입력해 사용할 수 있습니다.  
-기기 간 연동과 백업을 위해 다른 전화번호들을 추가로 등록할 수 있습니다.
+> Administrators receive a push notification to approve or reject each request.
 
-메뉴 설정의 '전화번호'에서 다른 전화번호를 추가할 수 있습니다.
+## 회원 찾기
 
-## 카드 정렬 및 표시 순서 변경 방법
+`Directory` page allows you to browse all coworking community members.
 
-앤카즈는 성 또는 이름 순으로 카드를 정렬 및 표시할 수 있습니다.
+> Administrators or moderators can press ··· on any card to view `Manage membership` page. This page allows to adjust member privileges, credit and cash balances.
 
-* 메뉴의 설정에 들어가세요.
-* 일반 설정에서 정렬 및 표시 순서를 고르세요.
-* 당신에게 알맞는 방법을 골라 선택하세요!
+### 길드
 
-## 언어 설정 방법
+A guild is a group of members. Each guild has emoji identifier and name. 
 
-앤카즈의 사용 언어를 변경할 수 있습니다. 아래의 설명을 따라가 보세요.
+> Administrators and moderators can create guilds, add or remove members.
 
-* 메뉴를 여세요.
-* 설정에 들어가세요.
-* 알맞는 언어를 설정하세요
+## 예약 시스템
 
-## 전화번호 추가 및 변경 방법
+### 회의실 예약
 
-기기 간 동기화 및 백업을 위해 전화번호를 추가로 등록할 수 있습니다.
+1. Navigate to `Bookings` page that displays a list of all meeting rooms. 
+2. Identify a meeting room you need by availability indicator, seat count and price.
 
-* 메뉴를 여세요.
-* 설정에 들어가세요.
-* 전화번호를 선택하세요.
-* 화면 우측 상단 플러스 버튼을 눌러 전화번호를 추가하세요.
+> Administrator can change all meeting room settings, such as seat count, price, and minimum booking time.
+> Administrator or moderator doesn't need credits or money to make a booking.
 
-## 로그인 활성 세션 확인 방법
+3. Select the meeting room and find a free slot on the timeline. 
+4. Press `Book` and fill in booking details. Keep in mind that the booking time should be equal or higher than the minimum booking time set by administrator.
+5. Complete booking by pressing corresponding button.
 
-활성 세션을 통해 앤카즈 앱 로그인 내역을 확인해 보세요
+### 결제스단 : 크레딧
 
-설정 - 계정 - 활성 세션 순으로 들어가시면 됩니다.
+Some coworking spaces may use credits for room booking. Credits are a kind of virtual currency and look like emoji: ⭐️, 💎 or 🍑.
 
+#### 크레딧 받기
+
+There are two ways to get credits:
+
+* Subscribe to a monthly membership plan for automated credit delivery.
+* Ask administrator or moderator (community manager) to manually add credits to your account.
+
+> Administrator can adjust credit balance from `Manage membership` page in `Directory`.
+
+#### 크레딧 이용
+
+When you book a meeting room, credits will be displayed as a payment option. Each meeting room displays hourly credit price. Make sure you have enough credits to complete booking. If you cancel booking before it starts, 100% of credits will be refunded.
+
+### 결제스단 : 현금
+
+Some coworking spaces allow to pay with cash at the counter after you make a booking. Each meeting room displays hourly price. When you book with cash, we'll update your `Cash balance` to display how much you owe to pay at the counter. If you cancel booking before it starts, 100% of credits will be refunded.
+
+> Administrator can clear cash balance from `Manage membership` page in `Directory`.
+
+### 예약 삭제 및 편집
+
+1. Open your booking and tap on page title.
+2. Press `Delete` in action sheet.
+3. Create a new booking.
+
+> Administrator or moderator can delete any booking.
+
+### 예약 공유
+
+1. Open your booking and find `Link to booking` section.
+2. Copy the link and share with another person. This link is dynamic: it'll open in app (if installed) or web.
+
+## 멤버십 플랜
+
+`Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
+
+> Administrator or moderator can add membership plans. 
+
+## 공지 사항
+
+`Notices` page is where all the community news show up. Every time there's a new notice we'll send you a push notification.
+
+> Administrators or moderators can create, edit or delete notices. When creating notice, administrator or moderator can select a target guild or all members.
+
+## 공간 설정
+
+`Settings` page contains all app and workspace related settings. Workspace settings section has title of your coworking space. You can view all coworking space information in section.
+
+> Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andCards.com.
