@@ -2,7 +2,7 @@
 
 ## About andCards Suite
 
-andCards Suite is the best coworking space membership software. Key features: 
+andCards Suite is the best coworking space membership software. Key features:
 
 * Meeting room booking
 * Membership plan subscriptions
@@ -13,14 +13,13 @@ Read more about [andCards Suite features](https://andcards.com/features). When y
 
 ## Download andCards Suite
 
-andCards Suite is available for: 
+andCards Suite is available for:
 
 * [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
 * [Web app](https://andcards.com/suite).
 
-> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. 
-> If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
+> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
 
 ## Login to andCards Suite
 
@@ -36,11 +35,10 @@ You may use several numbers for accessing your account.
 
 1. Press `Join Workspace` button and enter workspace tag. 
 
-> "Workspace tag" is unique for each coworking space. Ask manager or look for "Join us on andCards Suite" sign.
-> Administrator can contact our support to change the workspace tag.
+> "Workspace tag" is unique for each coworking space. Ask manager or look for "Join us on andCards Suite" sign. Administrator can contact our support to change the workspace tag.
 
-2. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
-3. Press `Request to join` button at the bottom of the page. Once the administrator approves your request, you'll be notified. Just reopen andCards Suite to access coworking space portal.
+1. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
+2. Press `Request to join` button at the bottom of the page. Once the administrator approves your request, you'll be notified. Just reopen andCards Suite to access coworking space portal.
 
 > Administrators receive a push notification to approve or reject each request.
 
@@ -52,7 +50,7 @@ You may use several numbers for accessing your account.
 
 ### Guilds
 
-A guild is a group of members. Each guild has emoji identifier and name. 
+A guild is a group of members. Each guild has emoji identifier and name.
 
 > Administrators and moderators can create guilds, add or remove members.
 
@@ -63,12 +61,11 @@ A guild is a group of members. Each guild has emoji identifier and name.
 1. Navigate to `Bookings` page that displays a list of all meeting rooms. 
 2. Identify a meeting room you need by availability indicator, seat count and price.
 
-> Administrator can change all meeting room settings, such as seat count, price, and minimum booking time.
-> Administrator or moderator doesn't need credits or money to make a booking.
+> Administrator can change all meeting room settings, such as seat count, price, and minimum booking time. Administrator or moderator doesn't need credits or money to make a booking.
 
-3. Select the meeting room and find a free slot on the timeline. 
-4. Press `Book` and fill in booking details. Keep in mind that the booking time should be equal or higher than the minimum booking time set by administrator.
-5. Complete booking by pressing corresponding button.
+1. Select the meeting room and find a free slot on the timeline. 
+2. Press `Book` and fill in booking details. Keep in mind that the booking time should be equal or higher than the minimum booking time set by administrator.
+3. Complete booking by pressing corresponding button.
 
 ### Booking with Credits
 
@@ -79,7 +76,7 @@ Some coworking spaces may use credits for room booking. Credits are a kind of vi
 There are two ways to get credits:
 
 * Subscribe to a monthly membership plan for automated credit delivery.
-* Ask administrator or moderator (community manager) to manually add credits to your account.
+* Ask administrator or moderator \(community manager\) to manually add credits to your account.
 
 > Administrator can adjust credit balance from `Manage membership` page in `Directory`.
 
@@ -104,13 +101,13 @@ Some coworking spaces allow to pay with cash at the counter after you make a boo
 ### Sharing a Link to a Booking
 
 1. Open your booking and find `Link to booking` section.
-2. Copy the link and share with another person. This link is dynamic: it'll open in app (if installed) or web.
+2. Copy the link and share with another person. This link is dynamic: it'll open in app \(if installed\) or web.
 
 ## Membership
 
 `Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
 
-> Administrator or moderator can add membership plans. 
+> Administrator or moderator can add membership plans.
 
 ## Notices
 
@@ -123,3 +120,4 @@ Some coworking spaces allow to pay with cash at the counter after you make a boo
 `Settings` page contains all app and workspace related settings. Workspace settings section has title of your coworking space. You can view all coworking space information in section.
 
 > Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andCards.com.
+
