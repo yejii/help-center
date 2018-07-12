@@ -13,7 +13,7 @@
 * [Українська](uk/README.md)
   * [Basic](uk/basic.md)
   * [Coworkings](uk/coworkings.md)
-* [한국어](undefined/README.md)
-  * [andCards Suite](undefined/andcards-suite.md)
-  * [andCards.com](undefined/andcards.com.md)
+* [한국어](ko/README.md)
+  * [andCards Suite](ko/andcards-suite.md)
+  * [andCards.com](ko/andcards.com.md)
 
