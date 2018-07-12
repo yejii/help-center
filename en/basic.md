@@ -1,76 +1,90 @@
-# Basic
+# andCards Suite
 
-## What is andCards?
+## About andCards Suite
 
-andCards is the software for building communities in organizations, for example coworking centers.  
-We help to build strong community inside coworking space, office or any other kind of organization.
+andCards Suite is the best coworking space membership software. Key features: 
 
-It has 3 main groups of features:
+* Meeting room booking
+* Membership plan subscriptions
+* Member directory
+* Notices
 
-* Coworking management solutions
-* Event management solutions
-* Contact app
+When you visit andCards Suite enabled coworking spaces, join them on andCards and enjoy coworking life.
 
-## Who is andCards for?
+## Download andCards Suite
 
-**andCards is useful for the following:**
+andCards Suite is available for: 
 
-* Coworking Space Management
-* Communications with residents
-* Personal Contacts exchange
-* Business Networking
-* Conducting polls and surveys \(coming soon\)
+* [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
+* [Web app](https://andcards.com/suite).
 
-So our customers are coworking managers who struggle with communication with their residents, use too many tools to reach each of them and are sick and tired of using different ineffective channels.
+> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. 
+> If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
 
-andCards team developed a comprehensive solution in one app for communication with residents, managing coworking rooms and properties and enforcing business networking at the events!
-
-## Is andCards available for my device?
-
-You can use andCards on all popular platforms: mobile and web. We have apps for [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts), and the [web app](https://andcards.com/login).
-
-> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use your main mobile phone number to log in everywhere.
-
-## How to signup or login?
-
-The process of signing up andCards app is very easy for all platforms:
+## Login to andCards Suite
 
 1. Open the app or andCards on web.
-2. Fill in your phone number.
+2. Select the country of your phone number. Fill in your phone number **without** country code.
 3. Wait a second for SMS with 4-digit passcode.
 4. Enter the code and enjoy!
 
 Your number will be linked to your account so you can access your account from any device using your number.  
-If you want to add several numbers to your account [follow the link](https://github.com/opensource-cards/help-center/tree/e4b87627fabd74133d440795368ca37ac03874f7/how-to-change-or-add-login-phone-number.md).
+You may use several numbers for accessing your account.
 
-## How to change the sorting or display order of cards?
+## Join Coworking Center
 
-AndCards has a possibility to sort cards in two ways: by first or last name. To change sorting method:
+1. Press `Join Workspace` button and enter workspace tag. 
 
-* Go to settings.
-* In General settings select Sorting.
-* Choose the method that works for you!
+> "Workspace tag" is unique for each coworking space. Ask manager or look for "Join us on andCards Suite" sign.
 
-## How to change the interface language?
+2. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
+3. Press `Request to join` button at the bottom of the page. Once the manager approves your request, reopen andCards Suite to access coworking space portal.
 
-In andCards app you can change the language of the interface. To complete that action you should:
+## Directory
 
-* Open the menu;
-* Go to settings;
-* Select language and choose yours.
+`Directory` page allows you to browse all coworking community members.
 
-## How to change or add login phone number?
+## Bookings
 
-You can add several numbers to backup and sync andCards across devices.  
-To add another number you have to
+### Booking Meeting Rooms
 
-* Open the menu;
-* Go to settings;
-* Choose "Phone Number"; 
-* Add several numbers.
+1. Navigate to `Bookings` page that displays a list of all meeting rooms. 
+2. Identify a meeting room you need by availability indicator, seat count and price.
+3. Select the meeting room and find a free slot on the timeline. 
+4. Press `Book` and fill in booking details.
+5. Complete booking by pressing corresponding button.
 
-## How to view and terminate active login sessions?
+### Booking with Credits
 
-You can control usage of your andCards app by monitoring Active Sessions.  
-You'll find them in Settings - Account - Active Sessions.
+Some coworking spaces may use credits for room booking. Credits are a kind of virtual currency and look like emoji: ⭐️, 💎 or 🍑.
 
+#### Getting Credits
+
+There are two ways to get credits:
+
+* Subscribe to a monthly membership plan for automated credit delivery.
+* Ask community manager to manually add credits to your account.
+
+#### Using Credits
+
+When you book a meeting room, credits will be displayed as a payment option. Each meeting room displays hourly credit price. Make sure you have enough credits to complete booking. If you cancel booking before it starts, 100% of credits will be refunded.
+
+### Booking with Cash
+
+Some coworking spaces allow to pay with cash at the counter after you make a booking. Each meeting room displays hourly price. When you book with cash, we'll update your `Cash balance` to display how much you owe to pay at the counter. If you cancel booking before it starts, 100% of credits will be refunded.
+
+### Editing or Deleting a Booking
+
+1. Open your booking and tap on page title.
+2. Press `Delete` in action sheet.
+3. Create a new booking.
+
+### Sharing a Link to a Booking
+
+1. Open your booking and find `Link to booking` section.
+2. Copy the link and share with another person. This link is dynamic: it'll open in app (if installed) or web.
+
+## Membership
+
+`Membership` page allows to purchase coworking space membership plan and view credit and cash balances.
