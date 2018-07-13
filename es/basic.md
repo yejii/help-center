@@ -1,76 +1,125 @@
-# Basic
+# andCards Suite
 
-## What is andCards?
+## Acerca de andCards Suite
 
-andCards is the software for building communities in organizations, for example coworking centers.  
-We help to build strong community inside coworking space, office or any other kind of organization.
+andCards Suite es el mejor software para las membresías en los espacios de Coworking. Principales características: 
 
-It has 3 main groups of features:
+* Reserva de sala de reuniones 
+* Subscripciones a planes de membresía 
+* Directorio de miembros 
+* Avisos
 
-* Coworking management solutions
-* Event management solutions
-* Contact app
+Cuando visites los espacios de Coworking habilitados por andCards Suite, únete a ellos en andCards Suite.
 
-## Who is andCards for?
+## Descarga andCards Suite
 
-**andCards is useful for the following:**
+andCards Suite está disponible para: 
 
-* Coworking Space Management
-* Communications with residents
-* Personal Contacts exchange
-* Business Networking
-* Conducting polls and surveys \(coming soon\)
+* [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
+* [Aplicación Web](https://andcards.com/suite).
 
-So our customers are coworking managers who struggle with communication with their residents, use too many tools to reach each of them and are sick and tired of using different ineffective channels.
+> Puedes iniciar sesión en andCards desde todos los dispositivos que desees — todo **al mismo tiempo**. Solo usa el método de incio de sesión en cualquie lugar.
+> Si deseas ver todos los dispositivos que se encuentran conectados, revisa `Sesiones Activas` en la pagina `Ajustes`.
 
-andCards team developed a comprehensive solution in one app for communication with residents, managing coworking rooms and properties and enforcing business networking at the events!
+## Incia sesión en andCards Suite
 
-## Is andCards available for my device?
+1. Abre la aplicación o la página web de andCards.
+2. Selecciona el país de tu numero de teléfono. Ingresa tu número de teléfono **sin** el código del país.
+3. Espera un segundo para recibir un mensaje de texto con un código de 4 dígitos. 
+4. Ingresa el código y ¡disfruta!
 
-You can use andCards on all popular platforms: mobile and web. We have apps for [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts), and the [web app](https://andcards.com/login).
+Tu número será vinculado a tu cuenta para que puedas acceder a tu cuenta desde cualquier dispositivo utilizando tu número.  
+Puedes utilizar varios números para acceder a tu cuenta.
 
-> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use your main mobile phone number to log in everywhere.
+## Unirse a un Centro de Coworking 
 
-## How to signup or login?
+1. Presiona el botón `Unirse al espacio`e ingresa la etiqueta del espacio de trabajo. 
 
-The process of signing up andCards app is very easy for all platforms:
+> "Etiquera del espacio de trabajo" es única para cada espacio de Coworking. Pregunte al gerente o busque la opción "Unéte a andCards Suite" 
+> El administrador puede contactar o ayudar a cambiar la etiqueta del espacio de trabajo.
 
-1. Open the app or andCards on web.
-2. Fill in your phone number.
-3. Wait a second for SMS with 4-digit passcode.
-4. Enter the code and enjoy!
+2. Presione `Buscar` y los detalles de la organización se mostrarán debajo de la barra de búsqueda.Verifica que es el espacio de Coworking correcto. 
+3. Presione la opcion `Solicitud de ingreso` al final de la página.  Una vez el administrador apruebe tu solicitud, serás notificado. Solo tienes que abrir de nuevo andCards Suite para acceder al portal de los espacios de Coworking.
 
-Your number will be linked to your account so you can access your account from any device using your number.  
-If you want to add several numbers to your account [follow the link](https://github.com/opensource-cards/help-center/tree/e4b87627fabd74133d440795368ca37ac03874f7/how-to-change-or-add-login-phone-number.md).
+> Los administradores reciben una notificación push para aprobar o rechazar cada solicitud.
 
-## How to change the sorting or display order of cards?
+## Directorio
 
-AndCards has a possibility to sort cards in two ways: by first or last name. To change sorting method:
+La página`Directorio` te permite buscar todos los miembros de la comunidad del Coworking. 
 
-* Go to settings.
-* In General settings select Sorting.
-* Choose the method that works for you!
+> Los administradores  o moderadores pueden presionar ···  en cualquier tarjeta para ver la página `Gestionar Membresía`.  Esta página te permite ajustar los privilegios de los miembros, créditos y balances en efectivo. 
 
-## How to change the interface language?
+### Gremios
 
-In andCards app you can change the language of the interface. To complete that action you should:
+Un gremio es un grupo de miembros. Cada gremio tiene un emoji identificador y un nombre. 
 
-* Open the menu;
-* Go to settings;
-* Select language and choose yours.
+> Los administradore y moderadores puedne crear gremios, añadir o remover miembros. 
 
-## How to change or add login phone number?
+## Reservas
 
-You can add several numbers to backup and sync andCards across devices.  
-To add another number you have to
+### Reserva de Salas de Reuniones
 
-* Open the menu;
-* Go to settings;
-* Choose "Phone Number"; 
-* Add several numbers.
+1. Busca la página `Reservas` que muestra una lista de todos las salas de reuniones. 
+2. Identifica una sala de reunión que necesites a traves del indicador de disponibilidad, número de asientos y el precio.
 
-## How to view and terminate active login sessions?
+> El administrador puede cambiar todas las configuraciones de las salas de reunión, como el número de asientos, precio y el tiempo mínimo de reserva.
+> El administrador o moderador no necesita créditos o dinero para realizar una reserva. 
 
-You can control usage of your andCards app by monitoring Active Sessions.  
-You'll find them in Settings - Account - Active Sessions.
+3. Selecciona la sala de reunión y encuentra un espacio libre en el calendario.    
+4. Selecciona `Reservar` y llena los detalles de la reserva. Ten en cuenta que el tiempo de reserva deber ser igual o mayor al tiempo de reserva mínimo establecido por el  administrador. 
+5. Completa la reserva al presionar el correspondiente botón. 
 
+### Reservar con créditos 
+
+Algunos espacios de Coworking pueden utilizar créditos para la reserva de habitaciones. Los créditos son monedas virtuales que lucen como un emoji: ⭐️, 💎 o 🍑.
+
+#### Obtener créditos.
+
+Hay dos maneras de obtener créditos: 
+
+* Subscribirse a un plan de membresía mensual para una entrega automática de créditos.
+* Preguntar al administrador o moderador (el gerente de la comunidad) para que agregue manualmente créditos a tu cuenta.
+
+> El administrador puede ajustar el balance de los créditos desde la página `Gestionar membresía` en el  `Directorio`.
+
+#### Utilizar créditos
+
+Cuando reserves una sala de reunión, los créditos serán mostrados como una opción de pago. Cada sala de reunión muestra el precio en créditos por hora. Asegúrate de tener suficientes créditos para completar ela reserva. Si cancelas la reserva antes de su comienzo, el 100% de los créditos serán reembolsados. 
+
+### REservar con efectivo.
+
+Algunos espacios de Coworking te permiten pagar con efectivo en el mostrador luego de realizar la reserva. Cada sala de reunión muestra el precio por hora. Cuando reserves en efectivo, actualizaremos tu `Balance en efectivo` para mostrar cuánto debes pagar en el mostrador. Si cancelas una reserva antes de que comience, el 100% de los créditos serán reembolsados.
+
+> El administrador puede despejar el balance en efectivo desde la página`Gestionar Membresía` en el `Directorio`.
+
+### Editar o eliminar una reserva 
+
+1. Abre tu reserva y haz clic en el título de la página. 
+2. Presiona `Eliminar`. 
+3. Crea una nueva reserva. 
+
+> Administrador o moderador puede eliminar cualquier reserva.
+
+### Compartir un Link a una reserva. 
+
+1. Abre tu reserva y encuentra la sección `Enlace a la reserva`.
+2. Copia el link y comoarte con otra persona. Este link es dinámico: Se abrira en la aplicación (si se encuentra instalada) o en la página web.  
+
+## Membresía
+
+La página`Membresía` te permite comprar planes de membresía en los espacios de Coworking y ver el balance de créditos y efectivo. 
+
+> El administrador o moderador puede agregar planes de membresía. 
+
+## Avisos
+
+La página de `Avisos` es donde se muestran todas las noticias de la comunidad. Cada vez que hay un nuevo aviso te enviaremos una notificación. 
+
+> Los administradores o moderadores pueden crear, editar o eliminar avisos. Al crear un aviso, el administrador o moderador pueden seleccionar el gremio deseado o todos los miembros.
+
+## Ajustes del espacio de trabajo 
+
+La página`Ajustes` contiene todas las configuraciones de la aplicación y del espacio de trabajo. La sección de ajustes del espacio de trabajo tiene el título de tu espacio de Coworking. Puedes ver toda la información del espacio de Coworking en esta sección. 
+
+> El administrador puede cambiar la información del espacio de Coworking, como el nombre, dirección, descripción, requerimiento mínimo de información personal y otros. Ten en cuenta que la información general del espacio de Coworking también será actualizada en andCards.com. 
