@@ -16,7 +16,9 @@ Ponte en contacto con business@andcards.com para incluir tu espacio de Coworking
 
 ## Mejorar la página de un espacio de Coworking
 
-andCards.com esta altamente optimizado para los motores de búsqueda. Para mejorar el rango de tu Coworking en los resultados de búsqueda, haz lo siguiente: 
+andCards.com esta altamente optimizado para los motores de búsqueda. Para mejorar el rango de tu Coworking en los resultados de búsqueda, haz lo siguiente:
+
 * Proporciona una descipcion mas detallada y correcta de tu espacio de Coworking.
 * Agrega nas unagenes para dar una idea de su interior y las comunidades con las que cuenta. 
 * Indica correctamente la dirección, email y página web. 
+
