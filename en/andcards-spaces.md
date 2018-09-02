@@ -16,7 +16,7 @@ Contact business@andcards.com to list your coworking space.
 
 ## Improve Coworking Space Page
 
-andCards.com is highly optimized for search engines. To improve your coworking space rank in search results, do the following:
+andCards Spaces is highly optimized for search engines. To improve your coworking space rank in search results, do the following:
 
 * provide more detailed and accurate description of your coworking space
 * add more images to give a feel of your interior and amenities
