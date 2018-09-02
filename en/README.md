@@ -4,4 +4,3 @@ Welcome to andCards Suite & Marketplace customer support. Here you can find supp
 
 * andCards Suite
 * andCards Spaces
-
