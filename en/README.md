@@ -3,11 +3,6 @@
 Get started by selecting your product:
 
 * [andCards Suite](andcards-suite.md)
-   * [Bookings](suite/bookings.md)
-   * [Membership](suite/membership.md)
-   * [Directory](suite/directory.md)
-   * [Feed](suite/feed.md)
-   * [Settings](suite/settings.md)
 * [andCards Spaces](andcards-spaces.md)
 * [andCards Kiosk](andcards-kiosk.md)
 
