@@ -181,14 +181,21 @@ Administrators can see detailed room usage statistics and change room settings.
 3. Press `Edit` button on navigation bar in top right corner.
 4. Change settings of a room and provide description. 
 
-*Name* is your facility's title.
-*Seats* is how many people can fit into a room.
-*Credits* is hourly price to book the room using individual or team credits (if `Credit System` is enabled in `Settings`).
-*Price* is hourly price to book the room using real currency (if `Billing System` is enabled in `Settings`).
-*Min time* is minimum time to reserve the room. If min time is set to 2 hours, the room can't be booked from 10:00 to 11:00, but can be booked from 10:00 to 12:00 and longer.
-*Max time* is maximum time to reserve the room. If the max time is set to 5 hours, the room can't be booked from 10:00 to 16:00, but can from 10:00 to 15:00 and shorter.
-*Public Access* displays the room on your organization's [andCards Spaces](/en/andcards-spaces.md) page.
-*Description* is any text you'd like to display to your members.
+**Name** is your facility's title.
+
+**Seats** is how many people can fit into a room.
+
+**Credits** is hourly price to book the room using individual or team credits (if `Credit System` is enabled in `Settings`).
+
+**Price** is hourly price to book the room using real currency (if `Billing System` is enabled in `Settings`).
+
+**Min time** is minimum time to reserve the room. If min time is set to 2 hours, the room can't be booked from 10:00 to 11:00, but can be booked from 10:00 to 12:00 and longer.
+
+**Max time** is maximum time to reserve the room. If the max time is set to 5 hours, the room can't be booked from 10:00 to 16:00, but can from 10:00 to 15:00 and shorter.
+
+**Public Access** displays the room on your organization's [andCards Spaces](/en/andcards-spaces.md) page.
+
+**Description** is any text you'd like to display to your members.
 
 #### Room Display
 
