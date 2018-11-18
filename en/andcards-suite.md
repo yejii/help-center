@@ -106,7 +106,7 @@ Add a check or credit card by filling in details. Double check that your card be
 
 ##### Using Cards
 
-Some cards require 3-D Secure procedure to confirm payment. In such case, you will see *Confirm Payment* button that opens a browser page with your bank's confirmation dialogue. After a successful 3-D Secure confirmation, the browser page will redirect back to andCards Suite and "Booking successful" alert will be displayed. 
+Some cards require 3-D Secure procedure to confirm payment. In such case, you will see `Confirm Payment` button that opens a browser page with your bank's confirmation dialogue. After a successful 3-D Secure confirmation, the browser page will redirect back to andCards Suite and "Booking successful" alert will be displayed. 
 
 If 3-D Secure confirmation was successful but redirect didn't happen, proceed as follows:
 * Manually close the browser page.
@@ -153,7 +153,7 @@ Administrators and moderators can book any room for free.
 
 You can view all bookings made on andCards in your personal calendar. Copy the link provided on `Export to Calendar` page and follow instructions in your personal calendar to subscribe. 
 
-*Important!* Keep the link private. Anyone with the link can view your bookings.
+**Important!** Keep the link private. Anyone with the link can view your bookings.
 
 Google Calendar may take up to 12 hours to display changes to your andCards bookings due to Google's caching mechanisms.
 
