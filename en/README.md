@@ -1,8 +1,9 @@
-# English
+# andCards Help (English)
 
-Welcome to andCards Suite & Marketplace customer support. Here you can find support articles for the following products:
+Get started by selecting your product:
 
 * andCards Suite
 * andCards Spaces
+* andCards Kiosk
 
 If you can't find what you're looking for, please send us an email at support@andcards.com
