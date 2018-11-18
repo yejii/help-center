@@ -2,7 +2,7 @@
 
 ## General
 
-### About andCards Suite
+#### About andCards Suite
 
 andCards Suite is the best coworking space membership software. Key features:
 
@@ -13,11 +13,11 @@ andCards Suite is the best coworking space membership software. Key features:
 
 Read more about [andCards Suite features](https://andcards.com/features). When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
 
-### Getting andCards Suite
+#### Getting andCards Suite
 
 Please email to business@andcards.com and we'll help you set up andCards Suite at your coworking space.
 
-### Download andCards Suite
+#### Download andCards Suite
 
 andCards Suite is available for:
 
@@ -27,7 +27,7 @@ andCards Suite is available for:
 
 > You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
 
-### Login to andCards Suite
+#### Login to andCards Suite
 
 1. Open andCards.
 2. Select your preferred login method.
@@ -38,7 +38,7 @@ andCards Suite is available for:
 4. If you chose login with phone number, select the country of your phone number. Fill in your phone number **without** country code.
 5. Wait for SMS with 4-digit passcode and enter it. There is no button to press, just wait to be logged in.
 
-### Join Coworking Space
+#### Join Coworking Space
 
 1. Press `Join Workspace` button and enter *workspace tag*. 
 
@@ -130,18 +130,69 @@ Uncheck `Payment received` if a user hasn't paid yet. The transaction will displ
 
 Administrators and moderators can book any room for free.
 
-### Editing or Deleting a Booking
+### Managing Bookings
 
-1. Open your booking and tap on page title.
-2. Press `Delete` in action sheet.
-3. Create a new booking.
+`Bookings` page displays two upcoming bookings. `All My Bookings` page displays all past and upcoming bookings. `Export to Calendar` page allows to set up export of bookings into member's personal calendar.
 
-> Administrator or moderator can delete any booking.
+#### Editing a Booking
 
-### Sharing a Link to a Booking
+1. Open a booking.
+2. Press `Edit` in navigation bar in top right corner.
+3. Edit start date, starting time, title or memo. 
+4. Press `Save`.
+
+#### Deleting a Booking
+
+1. Open a booking.
+2. Press `Delete` at the bottom of the page.
+3. Confirm deletion in dialogue.
+
+> Administrator or moderator can edit or delete any booking.
+
+#### Exporting Bookings to Calendar
+
+You can view all bookings made on andCards in your personal calendar. Copy the link provided on `Export to Calendar` page and follow instructions in your personal calendar to subscribe. 
+
+*Important!* Keep the link private. Anyone with the link can view your bookings.
+
+Google Calendar may take up to 12 hours to display changes to your andCards bookings due to Google's caching mechanisms.
+
+If something doesn't work, or you accidentally made the link public, press `Generate a new link` to receive a new link.
+
+#### Sharing a Link to a Booking
 
 1. Open your booking and find `Link to booking` section.
 2. Copy the link and share with another person. This link is dynamic: it'll open in app \(if installed\) or web.
+
+### Room Settings
+
+Administrators can see detailed room usage statistics and change room settings.
+
+#### Room Statistics
+
+1. Open a room calendar.
+2. Press `Statistics` button on navigation bar in top right corner.
+3. Select desired period.
+
+#### Room Settings
+
+1. Open a room calendar.
+2. Press `Information` button on navigation bar in top right corner.
+3. Press `Edit` button on navigation bar in top right corner.
+4. Change settings of a room and provide description. 
+
+*Name* is your facility's title.
+*Seats* is how many people can fit into a room.
+*Credits* is hourly price to book the room using individual or team credits (if `Credit System` is enabled in `Settings`).
+*Price* is hourly price to book the room using real currency (if `Billing System` is enabled in `Settings`).
+*Min time* is minimum time to reserve the room. If min time is set to 2 hours, the room can't be booked from 10:00 to 11:00, but can be booked from 10:00 to 12:00 and longer.
+*Max time* is maximum time to reserve the room. If the max time is set to 5 hours, the room can't be booked from 10:00 to 16:00, but can from 10:00 to 15:00 and shorter.
+*Public Access* displays the room on your organization's [andCards Spaces](/en/andcards-spaces.md) page.
+*Description* is any text you'd like to display to your members.
+
+#### Room Display
+
+You can use [andCards Kiosk](en/andcards-kiosk.md) room display app to automatically display all bookings at the room door on tablets. 
 
 ## Membership
 
