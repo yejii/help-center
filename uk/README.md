@@ -1,6 +1,6 @@
 # Українська
 
-Ласкаво просимо до підтримки клієнтів andCards Suite & Marketplace! Тут ви дізнаєтесь, як користуватись:
+Ласкаво просимо до підтримки клієнтів andcards Suite & Marketplace! Тут ви дізнаєтесь, як користуватись:
 
-* andCards Suite
-* andCards Spaces
+* andcards Suite
+* andcards Spaces

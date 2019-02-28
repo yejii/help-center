@@ -1,1 +1,1 @@
-# andCards Kiosk Help
+# andcards Kiosk Help

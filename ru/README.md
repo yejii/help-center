@@ -1,6 +1,6 @@
 # Русский
 
-Добро пожаловать на страницу поддержки клиентов andCards Suite & Marketplace! Тут вы узнаете, как пользоваться:
+Добро пожаловать на страницу поддержки клиентов andcards Suite & Marketplace! Тут вы узнаете, как пользоваться:
 
-* andCards Suite
-* andCards Spaces
+* andcards Suite
+* andcards Spaces

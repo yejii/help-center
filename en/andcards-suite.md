@@ -1,40 +1,40 @@
-# andCards Suite
+# andcards Suite
 
 ## General
 
-#### About andCards Suite
+#### About andcards Suite
 
-andCards Suite is the best coworking space membership software. Key features:
+andcards Suite is the best coworking space membership software. Key features:
 
 * Meeting room booking system
 * Membership plan system
 * Member directory
 * Community feed
 
-Read more about [andCards Suite features](https://andcards.com/features). When you visit andCards Suite enabled coworking spaces, join them on andCards Suite.
+Read more about [andcards Suite features](https://andcards.com/features). When you visit andcards Suite enabled coworking spaces, join them on andcards Suite.
 
-#### Getting andCards Suite
+#### Getting andcards Suite
 
-Please email to business@andcards.com and we'll help you set up andCards Suite at your coworking space.
+Please email to business@andcards.com and we'll help you set up andcards Suite at your coworking space.
 
-#### Download andCards Suite
+#### Download andcards Suite
 
-andCards Suite is available for:
+andcards Suite is available for:
 
-* [andCards for iOS (iPhone, iPad)](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
-* [andCards for Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
-* [andCards Web App](https://andcards.com/suite)
+* [andcards for iOS (iPhone, iPad)](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
+* [andcards for Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
+* [andcards Web App](https://andcards.com/suite)
 
-> You can log in to andCards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
+> You can log in to andcards from as many of your devices as you like — all **at the same time**. Just use log in method everywhere. If you want to see all devices you are logged in, check out `Active Sessions` page in `Settings`.
 
-#### Login to andCards Suite
+#### Login to andcards Suite
 
-1. Open andCards.
+1. Open andcards.
 2. Select your preferred login method.
 
 > If you're logging in on your second device, make sure to use the same login method as your first device.
 
-3. If you chose login with Facebook or Google, give andCards permission to access your account, and you will be immediately redirected back to your andCards account. 
+3. If you chose login with Facebook or Google, give andcards permission to access your account, and you will be immediately redirected back to your andcards account. 
 4. If you chose login with phone number, select the country of your phone number. Fill in your phone number **without** country code.
 5. Wait for SMS with 4-digit passcode and enter it. There is no button to press, just wait to be logged in.
 
@@ -42,12 +42,12 @@ andCards Suite is available for:
 
 1. Press `Join Workspace` button and enter *workspace tag*. 
 
-> "Workspace tag" is a unique joining code for each coworking space. Ask manager or look for "Join us on andCards Suite" sign. 
-> Administrator can contact andCards support to change the workspace tag.
+> "Workspace tag" is a unique joining code for each coworking space. Ask manager or look for "Join us on andcards Suite" sign. 
+> Administrator can contact andcards support to change the workspace tag.
 
 1. Press `Search` and the organization details will display below the search bar. Verify that it is the right coworking space.
 2. Press `Request to join` button at the bottom of the page. All coworking spaces you requested to join will be displayed on `My Workspaces` page.
-3. Once an administrator approves your request, you'll receive a push notification. Just reopen andCards Suite to access your coworking space.
+3. Once an administrator approves your request, you'll receive a push notification. Just reopen andcards Suite to access your coworking space.
 
 > Administrators receive a push notification to approve or reject each request.
 
@@ -102,15 +102,15 @@ If `Billing System` is enabled for your coworking space, you will see an option 
 
 ##### Adding Cards
 
-Add a check or credit card by filling in details. Double check that your card belongs to one of the supported payment systems. After one successful purchase, your card will be saved for easy 1-click payments. If you'd like to remove a saved card, contact andCards support.
+Add a check or credit card by filling in details. Double check that your card belongs to one of the supported payment systems. After one successful purchase, your card will be saved for easy 1-click payments. If you'd like to remove a saved card, contact andcards support.
 
 ##### Using Cards
 
-Some cards require 3-D Secure procedure to confirm payment. In such case, you will see `Confirm Payment` button that opens a browser page with your bank's confirmation dialogue. After a successful 3-D Secure confirmation, the browser page will redirect back to andCards Suite and "Booking successful" alert will be displayed. 
+Some cards require 3-D Secure procedure to confirm payment. In such case, you will see `Confirm Payment` button that opens a browser page with your bank's confirmation dialogue. After a successful 3-D Secure confirmation, the browser page will redirect back to andcards Suite and "Booking successful" alert will be displayed. 
 
 If 3-D Secure confirmation was successful but redirect didn't happen, proceed as follows:
 * Manually close the browser page.
-* Return to andCards Suite.
+* Return to andcards Suite.
 * Close the `New booking` page.
 * Wait for a few minutes to see your booking show up on calendar.
 
@@ -151,11 +151,11 @@ Administrators and moderators can book any room for free.
 
 #### Exporting Bookings to Calendar
 
-You can view all bookings made on andCards in your personal calendar. Copy the link provided on `Export to Calendar` page and follow instructions in your personal calendar to subscribe. 
+You can view all bookings made on andcards in your personal calendar. Copy the link provided on `Export to Calendar` page and follow instructions in your personal calendar to subscribe. 
 
 **Important!** Keep the link private. Anyone with the link can view your bookings.
 
-Google Calendar may take up to 12 hours to display changes to your andCards bookings due to Google's caching mechanisms.
+Google Calendar may take up to 12 hours to display changes to your andcards bookings due to Google's caching mechanisms.
 
 If something doesn't work, or you accidentally made the link public, press `Generate a new link` to receive a new link.
 
@@ -193,13 +193,13 @@ Administrators can see detailed room usage statistics and change room settings.
 
 **Max time** is maximum time to reserve the room. If the max time is set to 5 hours, the room can't be booked from 10:00 to 16:00, but can from 10:00 to 15:00 and shorter.
 
-**Public Access** displays the room on your organization's [andCards Spaces](/en/andcards-spaces.md) page.
+**Public Access** displays the room on your organization's [andcards Spaces](/en/andcards-spaces.md) page.
 
 **Description** is any text you'd like to display to your members.
 
 #### Room Display
 
-You can use [andCards Kiosk](en/andcards-kiosk.md) room display app to automatically display all bookings at the room door on tablets. 
+You can use [andcards Kiosk](en/andcards-kiosk.md) room display app to automatically display all bookings at the room door on tablets. 
 
 ## Membership
 
@@ -230,5 +230,5 @@ A guild is a group of members. Each guild has emoji identifier and name.
 
 `Settings` page contains all app and workspace related settings. Workspace settings section has title of your coworking space. You can view all coworking space information in section.
 
-> Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andCards.com.
+> Administrator can change coworking space information, such as name, address, description, minimum required personl information, and other. Keep in mind that general coworking space info will also be updated on andcards.com.
 

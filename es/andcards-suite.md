@@ -1,29 +1,29 @@
-# andCards Suite
+# andcards Suite
 
-## Acerca de andCards Suite
+## Acerca de andcards Suite
 
-andCards Suite es el mejor software para las membresías en los espacios de Coworking. Principales características:
+andcards Suite es el mejor software para las membresías en los espacios de Coworking. Principales características:
 
 * Reserva de sala de reuniones 
 * Subscripciones a planes de membresía 
 * Directorio de miembros 
 * Avisos
 
-Cuando visites los espacios de Coworking habilitados por andCards Suite, únete a ellos en andCards Suite.
+Cuando visites los espacios de Coworking habilitados por andcards Suite, únete a ellos en andcards Suite.
 
-## Descarga andCards Suite
+## Descarga andcards Suite
 
-andCards Suite está disponible para:
+andcards Suite está disponible para:
 
 * [iOS](https://itunes.apple.com/us/app/cards-contacts/id1291226540?ls=1&mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.cardscorp.contacts)
 * [Aplicación Web](https://andcards.com/suite).
 
-> Puedes iniciar sesión en andCards desde todos los dispositivos que desees — todo **al mismo tiempo**. Solo usa el método de incio de sesión en cualquie lugar. Si deseas ver todos los dispositivos que se encuentran conectados, revisa `Sesiones Activas` en la pagina `Ajustes`.
+> Puedes iniciar sesión en andcards desde todos los dispositivos que desees — todo **al mismo tiempo**. Solo usa el método de incio de sesión en cualquie lugar. Si deseas ver todos los dispositivos que se encuentran conectados, revisa `Sesiones Activas` en la pagina `Ajustes`.
 
-## Incia sesión en andCards Suite
+## Incia sesión en andcards Suite
 
-1. Abre la aplicación o la página web de andCards.
+1. Abre la aplicación o la página web de andcards.
 2. Selecciona el país de tu numero de teléfono. Ingresa tu número de teléfono **sin** el código del país.
 3. Espera un segundo para recibir un mensaje de texto con un código de 4 dígitos. 
 4. Ingresa el código y ¡disfruta!
@@ -35,10 +35,10 @@ Puedes utilizar varios números para acceder a tu cuenta.
 
 1. Presiona el botón `Unirse al espacio`e ingresa la etiqueta del espacio de trabajo. 
 
-> "Etiquera del espacio de trabajo" es única para cada espacio de Coworking. Pregunte al gerente o busque la opción "Unéte a andCards Suite" El administrador puede contactar o ayudar a cambiar la etiqueta del espacio de trabajo.
+> "Etiquera del espacio de trabajo" es única para cada espacio de Coworking. Pregunte al gerente o busque la opción "Unéte a andcards Suite" El administrador puede contactar o ayudar a cambiar la etiqueta del espacio de trabajo.
 
 1. Presione `Buscar` y los detalles de la organización se mostrarán debajo de la barra de búsqueda.Verifica que es el espacio de Coworking correcto. 
-2. Presione la opcion `Solicitud de ingreso` al final de la página.  Una vez el administrador apruebe tu solicitud, serás notificado. Solo tienes que abrir de nuevo andCards Suite para acceder al portal de los espacios de Coworking.
+2. Presione la opcion `Solicitud de ingreso` al final de la página.  Una vez el administrador apruebe tu solicitud, serás notificado. Solo tienes que abrir de nuevo andcards Suite para acceder al portal de los espacios de Coworking.
 
 > Los administradores reciben una notificación push para aprobar o rechazar cada solicitud.
 
@@ -119,5 +119,5 @@ La página de `Avisos` es donde se muestran todas las noticias de la comunidad. 
 
 La página`Ajustes` contiene todas las configuraciones de la aplicación y del espacio de trabajo. La sección de ajustes del espacio de trabajo tiene el título de tu espacio de Coworking. Puedes ver toda la información del espacio de Coworking en esta sección.
 
-> El administrador puede cambiar la información del espacio de Coworking, como el nombre, dirección, descripción, requerimiento mínimo de información personal y otros. Ten en cuenta que la información general del espacio de Coworking también será actualizada en andCards.com.
+> El administrador puede cambiar la información del espacio de Coworking, como el nombre, dirección, descripción, requerimiento mínimo de información personal y otros. Ten en cuenta que la información general del espacio de Coworking también será actualizada en andcards.com.
 
