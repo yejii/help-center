@@ -11,7 +11,7 @@ andcards Suite는 최고의 코워킹 스페이스 멤버십 소프트웨어입�
 
 [andcards Suite features](https://andcards.com/features)에서 더 자세한 사항들을 읽어보세요. andcards Suite에서 코워킹 스페이스를 찾고 가입해보세요.
 
-## andcards Suite 다은로드
+## andcards Suite 다로드
 
 andcards는 다음과 같은 곳에서 제공하고 있습니다:
 
